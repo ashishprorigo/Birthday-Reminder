@@ -1,0 +1,15 @@
+Application Development
+=======================
+1 creating birthday remainder application using spring boot.
+2 I am using below end points for the application.
+    To add friends: "/add"
+    To retrive all DOB information: "/all"
+    To delete friends : "/delete"
+3 using tymeleaf I will develop frontend of the application
+4 My-SQL DB for data storing
+
+Application deployment in docker
+========================
+1. shell script file for building the application
+2. shell script file for running the docker container
+3. shell script file for cron job as per requirement
